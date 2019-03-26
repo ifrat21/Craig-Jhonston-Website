@@ -1,0 +1,86 @@
+body{
+  background-color: #cdffeb ;
+  font-family: 'Fira Mono', monospace;
+}
+
+.nav-item{
+  float:right;
+  margin:5px 65px;
+  color:#3c415e;
+}
+
+.navbar-brand{
+  font-size:2rem;
+  font-weight:bold;
+  color:#048998;
+}
+
+.title-image{
+  width: 70% ;
+  border-radius: 100%;
+  margin:5%;
+}
+
+.container-fluid{
+
+  padding: 5% 20%;
+}
+h5{
+  line-height: 1.5;
+}
+#craig-biography{
+  background-color: #048998;
+}
+
+hr{
+  border-bottom: dotted;
+  width:30%;
+  color:#009f9d;
+}
+
+#recipe{
+  padding: 2% 15%;
+}
+.recipe-image{
+  width:50%;
+
+}
+
+.icon{
+  color:orange;
+  margin:1rem;
+}
+#Achievement{
+  padding: 7% 20%;
+  position: relative;
+  z-index: 1;
+}
+
+.feature-box{
+  text-align:center;
+  padding:5%;
+}
+
+#Restaurent{
+  padding: 2% 15%;
+  text-align: center;
+  line-height: 1.5;
+  font-weight: bold;
+}
+
+.btn{
+  background-color: black;
+  margin: 5% 15%;
+}
+
+#footer{
+
+  text-align:center;
+  color:grey;
+  text-align:center;
+  padding: 7% 15%;
+}
+
+.social-icon{
+  margin:20px 10px;
+}
